@@ -4,7 +4,7 @@
 
 import requests
 from xml.etree import ElementTree as ET
-import codecs
+
 import glob
 # query API and pull down all setlists
 # , 'apikey':'69cf3056-b765-4aae-a589-ea47afc41c66'

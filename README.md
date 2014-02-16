@@ -3,7 +3,7 @@ RushSetlists
 
 A collection of all setlists by Canadian Power Trio - Rush. The greatest band in the world :)
 
-Source: "http://www.setlist.fm/ 
+Source: "http://api.setlist.fm/docs/index.html"
 
 Pulls down data and consolidates into one xml file.
 

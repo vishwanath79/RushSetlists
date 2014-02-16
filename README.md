@@ -7,4 +7,4 @@ Source: "http://www.setlist.fm/
 
 Pulls down data and consolidates into one xml file.
 
-Dashboard using data WIP.
+Dashboard using data built with Tableau: http://public.tableausoftware.com/views/RushSetlistAnalysis/Rush#1
